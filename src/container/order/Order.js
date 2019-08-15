@@ -39,7 +39,6 @@ class Order extends Component {
         </div>
         {orderContentList}
       </div>
-
     )
   }
 }
